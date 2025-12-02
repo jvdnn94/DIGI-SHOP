@@ -1,0 +1,429 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "کوله‌پشتی Fjallraven Foldsack No.1",
+      "title_en": "Fjallraven Backpack",
+      "price": 6500000,
+      "description": "کوله‌پشتی حرفه‌ای برای استفاده روزمره و طبیعت‌گردی، مناسب لپ‌تاپ ۱۵ اینچ",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": "2",
+      "title": "تی‌شرت مردانه کژوال اسلیم فیت",
+      "title_en": "Mens Casual Slim Fit T-Shirt",
+      "price": 1300000,
+      "description": "تی‌شرت با پارچه نرم و تنفس‌پذیر، دوخت اسلیم فیت و جذاب",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": { "rate": 4.1, "count": 259 }
+    },
+    {
+      "id": "3",
+      "title": "کاپشن مردانه کتان ضدآب",
+      "title_en": "Mens Cotton Waterproof Jacket",
+      "price": 3300000,
+      "description": "کاپشن گرم و شیک مناسب پاییز و زمستان، ضدباد و ضدآب",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": { "rate": 4.7, "count": 500 }
+    },
+    {
+      "id": "4",
+      "title": "شلوار جین مردانه اسلیم فیت",
+      "title_en": "Mens Slim Fit Jeans",
+      "price": 950000,
+      "description": "جین باکیفیت با فیت عالی و دوام بالا",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": { "rate": 2.1, "count": 430 }
+    },
+    {
+      "id": "5",
+      "title": "دستبند طلا و نقره جان هاردی مدل ناگا",
+      "title_en": "John Hardy Naga Bracelet",
+      "price": 41000000,
+      "description": "از مجموعه افسانه‌ها، الهام‌گرفته از اژدهای دریایی",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 4.6, "count": 400 }
+    },
+    {
+      "id": "6",
+      "title": "انگشتر طلا میکروپاوه",
+      "title_en": "Gold Micropave Ring",
+      "price": 11800000,
+      "description": "انگشتر ظریف و درخشان با طراحی مینیمال",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 3.9, "count": 70 }
+    },
+    {
+      "id": "7",
+      "title": "انگشتر پرنسس با روکش طلای سفید",
+      "title_en": "Princess Cut White Gold Ring",
+      "price": 590000,
+      "description": "انگشتر نامزدی کلاسیک با نگین درخشان",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 3, "count": 400 }
+    },
+    {
+      "id": "8",
+      "title": "گوشواره تونل رزگلد استیل",
+      "title_en": "Rose Gold Tunnel Earrings",
+      "price": 650000,
+      "description": "گوشواره‌های خاص و جذاب از استیل ضدحساسیت",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 1.9, "count": 100 }
+    },
+    {
+      "id": "9",
+      "title": "هارد اکسترنال WD 2TB Elements",
+      "title_en": "WD 2TB External Hard Drive",
+      "price": 3800000,
+      "description": "هارد پرسرعت USB 3.0 با ظرفیت بالا",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": { "rate": 3.3, "count": 203 }
+    },
+    {
+      "id": "10",
+      "title": "اس‌اس‌دی SanDisk PLUS 1TB",
+      "title_en": "SanDisk 1TB SSD Plus",
+      "price": 6500000,
+      "description": "اس‌اس‌دی داخلی با سرعت بالا و عمر طولانی",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": { "rate": 2.9, "count": 470 }
+    },
+    {
+      "id": "11",
+      "title": "اس‌اس‌دی Silicon Power 256GB",
+      "title_en": "Silicon Power 256GB SSD",
+      "price": 6500000,
+      "description": "اس‌اس‌دی با تکنولوژی 3D NAND و سرعت فوق‌العاده",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+      "rating": { "rate": 4.8, "count": 319 }
+    },
+    {
+      "id": "12",
+      "title": "هارد گیمینگ WD 4TB برای PS4",
+      "title_en": "WD 4TB Gaming Drive PS4",
+      "price": 6800000,
+      "description": "گسترش فضای ذخیره‌سازی کنسول، نصب آسان",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": { "rate": 4.8, "count": 400 }
+    },
+    {
+      "id": "13",
+      "title": "مانیتور Acer SB220Q 21.5 اینچ IPS",
+      "title_en": "Acer SB220Q 21.5 IPS Monitor",
+      "price": 35500000,
+      "description": "مانیتور فول اچ‌دی فوق باریک با کیفیت تصویر عالی",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": { "rate": 2.9, "count": 250 }
+    },
+    {
+      "id": "14",
+      "title": "مانیتور گیمینگ خمیده سامسونگ 49 اینچ",
+      "title_en": "Samsung 49 Curved Gaming Monitor",
+      "price": 59000000,
+      "description": "مانیتور فوق عریض 32:9 با پشتیبانی HDR",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "rating": { "rate": 2.2, "count": 140 }
+    },
+    {
+      "id": "15",
+      "title": "کاپشن اسنوبرد زنانه BIYLACLESEN",
+      "title_en": "BIYLACLESEN Womens Snowboard Jacket",
+      "price": 3400000,
+      "description": "کاپشن گرم و ضدآب با لایه داخلی جدا شونده",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": { "rate": 2.6, "count": 235 }
+    },
+    {
+      "id": "16",
+      "title": "کاپشن چرم مصنوعی زنانه Lock and Love",
+      "title_en": "Lock and Love Faux Leather Jacket",
+      "price": 1780000,
+      "description": "کاپشن شیک و گرم با کلاه جدا شونده",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "rating": { "rate": 2.9, "count": 340 }
+    },
+    {
+      "id": "17",
+      "title": "بارانی راه‌راه زنانه",
+      "title_en": "Womens Striped Rain Jacket",
+      "price": 2380000,
+      "description": "بارانی سبک و شیک با طراحی راه‌راه",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": { "rate": 3.8, "count": 679 }
+    },
+    {
+      "id": "19",
+      "title": "تی‌شرت زنانه Opna جذب رطوبت",
+      "title_en": "Opna Womens Moisture Wicking T-Shirt",
+      "price": 470000,
+      "description": "تی‌شرت سبک و خنک مناسب ورزش و استفاده روزمره",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": { "rate": 4.5, "count": 146 }
+    },
+    {
+      "id": "20",
+      "title": "تی‌شرت نخی زنانه DANVOUY",
+      "title_en": "DANVOUY Womens Cotton T-Shirt",
+      "price": 770000,
+      "description": "تی‌شرت با پارچه نرم و کشسان، طرح چاپی",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": "21",
+      "title": "محصول تست ۱",
+      "title_en": "Test Product 1",
+      "price": 950000,
+      "description": "محصول آزمایشی با کیفیت بالا",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "rating": { "rate": 3.5, "count": 120 }
+    },
+    {
+      "id": "23",
+      "title": "گجت جدید رندوم",
+      "title_en": "Random New Gadget",
+      "price": 4750000,
+      "description": "گجت الکترونیکی جدید و مدرن",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+      "rating": { "rate": 4.4, "count": 80 }
+    },
+    {
+      "id": "24",
+      "title": "کلاه تابستانی کژوال",
+      "title_en": "Casual Summer Hat",
+      "price": 1180000,
+      "description": "کلاه سبک و شیک مناسب روزهای گرم",
+      "category": "women's clothing",
+     "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "rating": { "rate": 4.2, "count": 65 }
+    },
+    {
+      "id": "25",
+      "title": "کفش ورزشی مردانه نایک",
+      "title_en": "Nike Mens Sports Shoes",
+      "price": 2950000,
+      "description": "کفش راحت و بادوام برای ورزش و استفاده روزمره",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": { "rate": 4.5, "count": 120 }
+    },
+    {
+      "id": "26",
+      "title": "کیف پول چرم لوکس",
+      "title_en": "Luxury Leather Wallet",
+      "price": 2380000,
+      "description": "کیف پول چرم اصل با چندین محفظه",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 4.7, "count": 78 }
+    },
+    {
+      "id": "27",
+      "title": "هدفون بلوتوث بی‌سیم",
+      "title_en": "Wireless Bluetooth Headphones",
+      "price": 3550000,
+      "description": "هدفون با کیفیت صدای عالی و باتری طولانی",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": { "rate": 4.3, "count": 210 }
+    },
+    {
+      "id": "28",
+      "title": "پیراهن تابستانی زنانه",
+      "title_en": "Womens Summer Dress",
+      "price": 2080000,
+      "description": "پیراهن سبک و رنگارنگ مناسب تفریحات تابستانی",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": { "rate": 4.6, "count": 95 }
+    },
+    {
+      "id": "29",
+      "title": "پیراهن مردانه کژوال",
+      "title_en": "Mens Casual Shirt",
+      "price": 1780000,
+      "description": "پیراهن نرم و تنفس‌پذیر مناسب استفاده روزمره",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": { "rate": 4.1, "count": 140 }
+    },
+    {
+      "id": "30",
+      "title": "گوشواره حلقه‌ای طلا",
+      "title_en": "Gold Hoop Earrings",
+      "price": 1540000,
+      "description": "گوشواره سبک و شیک با روکش طلا",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 4.5, "count": 60 }
+    },
+    {
+      "id": "31",
+      "title": "شارژر همراه 20000 میلی‌آمپر",
+      "title_en": "20000mAh Power Bank",
+      "price": 1360000,
+      "description": "شارژر همراه با شارژ سریع و ظرفیت بالا",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": { "rate": 4.4, "count": 180 }
+    },
+    {
+      "id": "32",
+      "title": "کفش دویدن زنانه",
+      "title_en": "Womens Running Shoes",
+      "price": 3250000,
+      "description": "کفش سبک و راحت برای دویدن و ورزش روزانه",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "rating": { "rate": 4.3, "count": 85 }
+    },
+    {
+      "id": "33",
+      "title": "ساعت کلاسیک مردانه",
+      "title_en": "Mens Classic Watch",
+      "price": 5300000,
+      "description": "ساعت شیک با بند چرم و طراحی کلاسیک",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": { "rate": 4.6, "count": 110 }
+    },
+    {
+      "id": "34",
+      "title": "کفش نایک ایر زوم پگاسوس 39",
+      "title_en": "Nike Air Zoom Pegasus 39",
+      "price": 7700000,
+      "description": "کفش دویدن حرفه‌ای با تکنولوژی زوم ایر",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "rating": { "rate": 4.7, "count": 890 }
+    },
+    {
+      "id": "35",
+      "title": "عینک آفتابی ری‌بن اویاتور کلاسیک",
+      "title_en": "Ray-Ban Aviator Classic Sunglasses",
+      "price": 10600000,
+      "description": "عینک آفتابی آیکونیک با لنز پولارایز",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "rating": { "rate": 4.8, "count": 620 }
+    },
+    {
+      "id": "36",
+      "title": "هدفون سامسونگ گلکسی بادز پرو 2",
+      "title_en": "Samsung Galaxy Buds Pro 2",
+      "price": 13600000,
+      "description": "هدفون بی‌سیم پریمیوم با نویز کنسلینگ فعال",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+      "rating": { "rate": 4.5, "count": 1450 }
+    },
+    {
+      "id": "37",
+      "title": "اپل واچ سری 9 (45mm)",
+      "title_en": "Apple Watch Series 9 45mm",
+      "price": 25400000,
+      "description": "ساعت هوشمند پیشرفته با نمایشگر همیشه روشن",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+      "rating": { "rate": 4.9, "count": 3200 }
+    },
+    {
+      "id": "38",
+      "title": "انگشتر پاندورا قلب درخشان",
+      "title_en": "Pandora Shining Heart Ring",
+      "price": 5000000,
+      "description": "انگشتر نقره با نگین زیرکونیا",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 4.6, "count": 380 }
+    },
+    {
+      "id": "39",
+      "title": "پیراهن میدی زارا",
+      "title_en": "Zara Midi Dress",
+      "price": 2950000,
+      "description": "پیراهن تابستانی سبک با طرح گل",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": { "rate": 4.4, "count": 560 }
+    },
+    {
+      "id": "40",
+      "title": "شلوار جین لِویز 511 اسلیم فیت",
+      "title_en": "Levis 511 Slim Fit Jeans",
+      "price": 4130000,
+      "description": "جین باکیفیت با فیت عالی و کشسانی",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "rating": { "rate": 4.5, "count": 980 }
+    },
+    {
+      "id": "41",
+      "title": "پاوربانک انکر پاورکور 20000",
+      "title_en": "Anker PowerCore 20000",
+      "price": 2950000,
+      "description": "پاوربانک با ظرفیت بالا و شارژ سریع",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+      "rating": { "rate": 4.7, "count": 5200 }
+    },
+    {
+      "id": "42",
+      "title": "گردنبند تیفانی بی‌نهایت",
+      "title_en": "Tiffany Infinity Necklace",
+      "price": 20700000,
+      "description": "گردنبند نقره با نماد بی‌نهایت",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "rating": { "rate": 4.9, "count": 210 }
+    },
+    {
+      "id": "43",
+      "title": "پیراهن لینن اورسایز اچ‌اندام",
+      "title_en": "H&M Oversized Linen Shirt",
+      "price": 2080000,
+      "description": "پیراهن خنک و راحت مناسب روزهای گرم",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "rating": { "rate": 4.3, "count": 420 }
+    },
+    {
+      "id": "1764425679665",
+      "title": "انگشتر نقره با نگین زیرکونیا2",
+      "title_en": "Silver Zirconia Ring 2",
+      "price": 100000000,
+      "description": "یک محصول صرفا جهت ارزیابی",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "category": "jewelery",
+      "rating": { "rate": 0, "count": 0 }
+    }
+  ],
+  "Discounts": [
+    { "id": "1", "code": "OFF10", "percentage": 10 },
+    { "id": "2", "code": "TSX20y", "percentage": 20 },
+    { "id": "3", "code": "tfffxa30", "percentage": 30 }
+  ]
+}
